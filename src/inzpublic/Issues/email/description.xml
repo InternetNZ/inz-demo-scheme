@@ -1,14 +1,14 @@
-<IssueSpecification version="1">
+<IssueSpecification version="4">
     <Name>
-        <en>INZ Public e-mail</en>
-        <nl>INZ Public e-mail</nl>
+        <en>Demo INZ Public e-mail</en>
+        <nl>Demo INZ Public e-mail</nl>
     </Name>
     <ShortName>
         <en>E-mail</en>
         <nl>E-mail</nl>
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
-    <IssuerID>inz-public</IssuerID>
+    <IssuerID>inzpublic</IssuerID>
     <CredentialID>email</CredentialID>
     <Description>
         <en>E-mail</en>

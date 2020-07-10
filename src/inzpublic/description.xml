@@ -1,12 +1,12 @@
-<Issuer version="1">
-    <ID>nzpost</ID>
+<Issuer version="4">
+    <ID>inzpublic</ID>
     <Name>
-        <en>NZPost Demo Issuer</en>
-        <nl>NZPost Demo Issuer</nl>
+        <en>Demo INZ Public Issuer</en>
+        <nl>Demo INZ Public Issuer</nl>
     </Name>
     <ShortName>
-        <en>NZPost</en>
-        <nl>NZPost</nl>
+        <en>inzpublic</en>
+        <nl>inzpublic</nl>
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
     <ContactAddress>https://internetnz.nz</ContactAddress>

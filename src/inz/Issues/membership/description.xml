@@ -1,7 +1,7 @@
-<IssueSpecification version="1">
+<IssueSpecification version="4">
     <Name>
-        <en>InternetNZ membership</en>
-        <nl>InternetNZ membership</nl>
+        <en>Demo InternetNZ membership</en>
+        <nl>Demo InternetNZ membership</nl>
     </Name>
     <ShortName>
         <en>InternetNZ membership</en>
