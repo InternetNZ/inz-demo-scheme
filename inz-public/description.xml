@@ -1,0 +1,15 @@
+<Issuer version="1">
+    <ID>nzpost</ID>
+    <Name>
+        <en>NZPost Demo Issuer</en>
+        <nl>NZPost Demo Issuer</nl>
+    </Name>
+    <ShortName>
+        <en>NZPost</en>
+        <nl>NZPost</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <ContactAddress>https://internetnz.nz</ContactAddress>
+    <ContactEMail>commercial@internetnz.net.nz</ContactEMail>
+    <baseURL></baseURL>
+</Issuer>

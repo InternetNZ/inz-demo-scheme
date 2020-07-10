@@ -1,0 +1,79 @@
+<IssueSpecification version="1">
+    <Name>
+        <en>InternetNZ membership</en>
+        <nl>InternetNZ membership</nl>
+    </Name>
+    <ShortName>
+        <en>InternetNZ membership</en>
+        <nl>InternetNZ membership</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <IssuerID>inz</IssuerID>
+    <CredentialID>membership</CredentialID>
+    <Description>
+        <en>Your InternetNZ membership attributes</en>
+        <nl>Your InternetNZ membership attributes</nl>
+    </Description>
+    <ShouldBeSingleton>true</ShouldBeSingleton>
+    <IssueURL>
+        <en>https://fake-website.internetnz.nz/demo/membership/</en>
+        <nl>https://fake-website.internetnz.nz/demo/membership/</nl>
+    </IssueURL>
+
+    <ForegroundColor>#15222E</ForegroundColor>
+    <BackgroundGradientStart>#FFB54C</BackgroundGradientStart>
+    <BackgroundGradientEnd>#FFE8CD</BackgroundGradientEnd>
+
+    <Attributes>
+        <Attribute id="id">
+            <Name>
+                <en>ID</en>
+                <nl>ID</nl>
+            </Name>
+            <Description>
+                <en>Your membership number</en>
+                <nl>Your membership number</nl>
+            </Description>
+        </Attribute>
+        <Attribute id="type">
+            <Name>
+                <en>Type</en>
+                <nl>Type</nl>
+            </Name>
+            <Description>
+                <en>Your membership type</en>
+                <nl>Je lidmaatschapstype</nl>
+            </Description>
+        </Attribute>
+        <Attribute id="purchasedAt">
+            <Name>
+                <en>Date of purchase</en>
+                <nl>Date of purchase</nl>
+            </Name>
+            <Description>
+                <en>Your membership Date of purchase</en>
+                <nl>Your membership Date of purchase</nl>
+            </Description>
+        </Attribute>
+        <Attribute id="renewedAt">
+            <Name>
+                <en>Date of renewal</en>
+                <nl>Date of renewal</nl>
+            </Name>
+            <Description>
+                <en>Your membership Date of renewal</en>
+                <nl>Your membership Date of renewal</nl>
+            </Description>
+        </Attribute>
+        <Attribute id="expirationDate">
+            <Name>
+                <en>Date of expiration</en>
+                <nl>Date of expiration</nl>
+            </Name>
+            <Description>
+                <en>Your membership date of expiration</en>
+                <nl>Your membership date of expiration</nl>
+            </Description>
+        </Attribute>
+    </Attributes>
+</IssueSpecification>
