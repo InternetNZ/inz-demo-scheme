@@ -8,7 +8,7 @@
         <nl>InternetNZ membership</nl>
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
-    <IssuerID>inz</IssuerID>
+    <IssuerID>internetnz</IssuerID>
     <CredentialID>membership</CredentialID>
     <Description>
         <en>Your InternetNZ membership attributes</en>

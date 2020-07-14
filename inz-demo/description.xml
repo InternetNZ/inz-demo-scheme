@@ -1,6 +1,6 @@
 <SchemeManager version="20200709">
 	<Id>inz-demo</Id>
-	<Url>http://localhost:7000/</Url>
+	<Url>https://irma-scheme.local.internetnz.nz</Url>
 	<Demo>true</Demo>
 	<Name>
 		<en>INZ Scheme Manager Demo</en>

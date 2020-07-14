@@ -8,7 +8,7 @@
 		<nl>Demo INZ data</nl>
 	</ShortName>
 	<SchemeManager>inz-demo</SchemeManager>
-	<IssuerID>inz</IssuerID>
+	<IssuerID>internetnz</IssuerID>
 	<CredentialID>id</CredentialID>
 	<Description>
 		<en>INZ demo data</en>

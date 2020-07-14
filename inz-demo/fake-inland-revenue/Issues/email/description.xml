@@ -8,7 +8,7 @@
         <nl>E-mail</nl>
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
-    <IssuerID>inzpublic</IssuerID>
+    <IssuerID>fake-inland-revenue</IssuerID>
     <CredentialID>email</CredentialID>
     <Description>
         <en>E-mail</en>
