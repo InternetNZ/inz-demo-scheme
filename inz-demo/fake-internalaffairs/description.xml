@@ -1,0 +1,15 @@
+<Issuer version="4">
+    <ID>fake-internalaffairs</ID>
+    <Name>
+        <en>Demo Fake Internal Affairs Issuer</en>
+        <nl>Demo Fake Internal Affairs Issuer</nl>
+    </Name>
+    <ShortName>
+        <en>Fake Internal Affairs</en>
+        <nl>Fake Internal Affairs</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <ContactAddress>https://fake-internalaffairs.internetnz.nz</ContactAddress>
+    <ContactEMail>commercial@internetnz.net.nz</ContactEMail>
+    <baseURL></baseURL>
+</Issuer>

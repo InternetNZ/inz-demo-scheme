@@ -1,0 +1,38 @@
+<IssueSpecification version="4">
+    <Name>
+        <en>Demo Address</en>
+        <nl>Demo Address</nl>
+    </Name>
+    <ShortName>
+        <en>Address</en>
+        <nl>Address</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <IssuerID>fake-internalaffairs</IssuerID>
+    <CredentialID>address</CredentialID>
+    <Description>
+        <en>Address</en>
+        <nl>Address</nl>
+    </Description>
+    <ShouldBeSingleton>true</ShouldBeSingleton>
+    <IssueURL>
+        <en></en>
+        <nl></nl>
+    </IssueURL>
+    <Category>
+        <en>Personal</en>
+        <nl>Persoonlijk</nl>
+    </Category>
+    <Attributes>
+        <Attribute id="address">
+            <Name>
+                <en>Address</en>
+                <nl>Address</nl>
+            </Name>
+            <Description>
+                <en>Your verified address</en>
+                <nl>Je geverifieerde Adres</nl>
+            </Description>
+        </Attribute>
+    </Attributes>
+</IssueSpecification>
