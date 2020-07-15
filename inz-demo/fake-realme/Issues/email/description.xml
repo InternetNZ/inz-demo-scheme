@@ -58,11 +58,11 @@
     <Attributes>
         <Attribute id="email">
             <Name>
-                <en>E-mail address</en>
+                <en>User e-mail address</en>
                 <nl>E-mailadres</nl>
             </Name>
             <Description>
-                <en>Your verified email address</en>
+                <en>Your verified e-mail address</en>
                 <nl>Je geverifieerde e-mailadres</nl>
             </Description>
         </Attribute>

@@ -27,52 +27,52 @@
     <Attributes>
         <Attribute id="id">
             <Name>
-                <en>ID</en>
-                <nl>ID</nl>
+                <en>Membership ID</en>
+                <nl>Membership ID</nl>
             </Name>
             <Description>
-                <en>Your membership number</en>
+                <en>Your membership identification</en>
                 <nl>Your membership number</nl>
             </Description>
         </Attribute>
         <Attribute id="type">
             <Name>
-                <en>Type</en>
-                <nl>Type</nl>
+                <en>Membership Type</en>
+                <nl>Membership Type</nl>
             </Name>
             <Description>
-                <en>Your membership type</en>
+                <en>The selected type of membership</en>
                 <nl>Je lidmaatschapstype</nl>
             </Description>
         </Attribute>
-        <Attribute id="purchasedAt">
+        <Attribute id="purchaseDate">
             <Name>
-                <en>Date of purchase</en>
-                <nl>Date of purchase</nl>
+                <en>Membership since</en>
+                <nl>Membership since</nl>
             </Name>
             <Description>
-                <en>Your membership Date of purchase</en>
-                <nl>Your membership Date of purchase</nl>
+                <en>Date of the first membership purchase</en>
+                <nl>Date of the first membership purchase</nl>
             </Description>
         </Attribute>
-        <Attribute id="renewedAt">
+        <Attribute id="renewalDate">
             <Name>
-                <en>Date of renewal</en>
-                <nl>Date of renewal</nl>
+                <en>Membership last renewal at</en>
+                <nl>Membership last renewal at</nl>
             </Name>
             <Description>
-                <en>Your membership Date of renewal</en>
-                <nl>Your membership Date of renewal</nl>
+                <en>Date of the latest renewal</en>
+                <nl>Date of the latest renewal</nl>
             </Description>
         </Attribute>
-        <Attribute id="expirationDate">
+        <Attribute id="validUntil">
             <Name>
-                <en>Date of expiration</en>
-                <nl>Date of expiration</nl>
+                <en>Membership expiration date</en>
+                <nl>Membership expiration date</nl>
             </Name>
             <Description>
-                <en>Your membership date of expiration</en>
-                <nl>Your membership date of expiration</nl>
+                <en>Membership last renewal expiration date</en>
+                <nl>Membership last renewal expiration date</nl>
             </Description>
         </Attribute>
     </Attributes>

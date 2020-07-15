@@ -1,7 +1,7 @@
 <IssueSpecification version="4">
     <Name>
-        <en>Demo Full name</en>
-        <nl>Demo Full name</nl>
+        <en>Demo full name</en>
+        <nl>Demo full name</nl>
     </Name>
     <ShortName>
         <en>Full name</en>
@@ -11,8 +11,8 @@
     <IssuerID>fake-internalaffairs</IssuerID>
     <CredentialID>name</CredentialID>
     <Description>
-        <en>The full name</en>
-        <nl>The full name</nl>
+        <en>User full name</en>
+        <nl>User full name</nl>
     </Description>
     <ShouldBeSingleton>true</ShouldBeSingleton>
     <IssueURL>

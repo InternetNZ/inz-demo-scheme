@@ -22,11 +22,11 @@
     <Attributes>
         <Attribute id="fullAddress">
             <Name>
-                <en>Address</en>
+                <en>Full address</en>
                 <nl>Ailadres</nl>
             </Name>
             <Description>
-                <en>Your verified address</en>
+                <en>Street, city and state</en>
                 <nl>Je geverifieerde adres</nl>
             </Description>
         </Attribute>
