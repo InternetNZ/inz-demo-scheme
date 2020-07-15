@@ -12,7 +12,7 @@
 	</Description>
 	<KeyshareServer>http://localhost:18080/irma_keyshare_server/api/v1</KeyshareServer>
 	<KeyshareWebsite>https://internetnz.nz/</KeyshareWebsite>
-	<KeyshareAttribute>inz-demo.inz-public.myirma.email</KeyshareAttribute>
+	<KeyshareAttribute>inz-demo.internetnz.id.number</KeyshareAttribute>
 	<TimestampServer>https://keyshare.privacybydesign.foundation/atumd/</TimestampServer>
 	<Contact>https://internetnz.nz/</Contact>
 </SchemeManager>
