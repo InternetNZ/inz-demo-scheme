@@ -10,7 +10,7 @@
 		<en>Demo credentials within the INZ domain</en>
 		<nl>Demo INZ-credentials</nl>
 	</Description>
-	<KeyshareServer>http://localhost:18080/irma_keyshare_server/api/v1</KeyshareServer>
+	<KeyshareServer>http://192.168.0.10:18080/irma_keyshare_server/api/v1</KeyshareServer>
 	<KeyshareWebsite>https://internetnz.nz/</KeyshareWebsite>
 	<KeyshareAttribute>inz-demo.internetnz.id.number</KeyshareAttribute>
 	<TimestampServer>https://keyshare.privacybydesign.foundation/atumd/</TimestampServer>
