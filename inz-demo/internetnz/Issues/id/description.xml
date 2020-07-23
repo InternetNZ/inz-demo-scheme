@@ -14,13 +14,12 @@
 		<en>INZ demo data</en>
 		<nl></nl>
 	</Description>
+	<ShouldBeSingleton>true</ShouldBeSingleton>
+	<DisallowDelete>true</DisallowDelete>
 	<IssueURL>
 		<en></en>
 		<nl></nl>
 	</IssueURL>
-
-
-
 	<Attributes>
 		<Attribute id="number">
 			<Name>
