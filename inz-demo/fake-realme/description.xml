@@ -1,0 +1,15 @@
+<Issuer version="4">
+    <ID>fake-realme</ID>
+    <Name>
+        <en>Demo Fake RealMe Issuer</en>
+        <nl>Demo Fake RealMe Issuer</nl>
+    </Name>
+    <ShortName>
+        <en>Fake RealMe</en>
+        <nl>Fake RealMe</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <ContactAddress>https://fake-realme.internetnz.nz</ContactAddress>
+    <ContactEMail>commercial@internetnz.net.nz</ContactEMail>
+    <baseURL></baseURL>
+</Issuer>

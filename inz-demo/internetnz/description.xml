@@ -1,15 +1,15 @@
 <Issuer version="4">
-	<ID>inz</ID>
+	<ID>internetnz</ID>
 	<Name>
 		<en>Demo INZ Pilot</en>
 		<nl>Demo INZ Pilot</nl>
 	</Name>
 	<ShortName>
-		<en>Demo INZ Pilot</en>
-		<nl>Demo INZ Pilot</nl>
+		<en>InternetNZ</en>
+		<nl>InternetNZ</nl>
 	</ShortName>
 	<SchemeManager>inz-demo</SchemeManager>
 	<ContactAddress>https://internetnz.nz</ContactAddress>
-	<ContactEMail>robby@test.nz</ContactEMail>
+	<ContactEMail>commercial@internetnz.net.nz</ContactEMail>
 	<baseURL></baseURL>
 </Issuer>

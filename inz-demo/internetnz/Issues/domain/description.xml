@@ -8,8 +8,8 @@
 		<nl>Demo INZ data</nl>
 	</ShortName>
 	<SchemeManager>inz-demo</SchemeManager>
-	<IssuerID>inz</IssuerID>
-	<CredentialID>id</CredentialID>
+	<IssuerID>internetnz</IssuerID>
+	<CredentialID>domain</CredentialID>
 	<Description>
 		<en>INZ demo data</en>
 		<nl></nl>
@@ -22,13 +22,13 @@
 
 
 	<Attributes>
-		<Attribute id="number">
+		<Attribute id="name">
 			<Name>
-				<en>number</en>
+				<en>name</en>
 				<nl></nl>
 			</Name>
 			<Description>
-				<en>ID number</en>
+				<en>Domain name</en>
 				<nl></nl>
 			</Description>
 		</Attribute>

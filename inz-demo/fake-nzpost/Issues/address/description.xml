@@ -1,0 +1,34 @@
+<IssueSpecification version="4">
+    <Name>
+        <en>Demo Address</en>
+        <nl>Demo Address</nl>
+    </Name>
+    <ShortName>
+        <en>Address</en>
+        <nl>Address</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <IssuerID>fake-nzpost</IssuerID>
+    <CredentialID>address</CredentialID>
+    <Description>
+        <en>Full address</en>
+        <nl>Full address</nl>
+    </Description>
+    <ShouldBeSingleton>false</ShouldBeSingleton>
+    <IssueURL>
+        <en></en>
+        <nl></nl>
+    </IssueURL>
+    <Attributes>
+        <Attribute id="fullAddress">
+            <Name>
+                <en>Full address</en>
+                <nl>Ailadres</nl>
+            </Name>
+            <Description>
+                <en>Street, city and state</en>
+                <nl>Je geverifieerde adres</nl>
+            </Description>
+        </Attribute>
+    </Attributes>
+</IssueSpecification>

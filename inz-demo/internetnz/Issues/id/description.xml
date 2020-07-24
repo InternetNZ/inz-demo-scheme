@@ -8,27 +8,26 @@
 		<nl>Demo INZ data</nl>
 	</ShortName>
 	<SchemeManager>inz-demo</SchemeManager>
-	<IssuerID>inz</IssuerID>
-	<CredentialID>domain</CredentialID>
+	<IssuerID>internetnz</IssuerID>
+	<CredentialID>id</CredentialID>
 	<Description>
 		<en>INZ demo data</en>
 		<nl></nl>
 	</Description>
+	<ShouldBeSingleton>true</ShouldBeSingleton>
+	<DisallowDelete>true</DisallowDelete>
 	<IssueURL>
 		<en></en>
 		<nl></nl>
 	</IssueURL>
-
-
-
 	<Attributes>
-		<Attribute id="name">
+		<Attribute id="number">
 			<Name>
-				<en>name</en>
+				<en>number</en>
 				<nl></nl>
 			</Name>
 			<Description>
-				<en>Domain name</en>
+				<en>ID number</en>
 				<nl></nl>
 			</Description>
 		</Attribute>
