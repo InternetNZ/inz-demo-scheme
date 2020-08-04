@@ -1,7 +1,7 @@
 <IssueSpecification version="4">
     <Name>
-        <en>Demo Address</en>
-        <nl>Demo Address</nl>
+        <en>Demo NZ Post Address</en>
+        <nl>Demo NZ Post Address</nl>
     </Name>
     <ShortName>
         <en>Address</en>
@@ -14,7 +14,7 @@
         <en>Full address</en>
         <nl>Full address</nl>
     </Description>
-    <ShouldBeSingleton>false</ShouldBeSingleton>
+    <ShouldBeSingleton>true</ShouldBeSingleton>
     <IssueURL>
         <en></en>
         <nl></nl>
@@ -26,7 +26,7 @@
                 <nl>Ailadres</nl>
             </Name>
             <Description>
-                <en>Street, city and state</en>
+                <en>Street, city, state, zip code</en>
                 <nl>Je geverifieerde adres</nl>
             </Description>
         </Attribute>

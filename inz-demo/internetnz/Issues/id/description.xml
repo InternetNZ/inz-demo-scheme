@@ -1,11 +1,11 @@
 <IssueSpecification version="4">
 	<Name>
-		<en>Demo INZ data</en>
-		<nl>Demo INZ data</nl>
+		<en>Demo INZ id</en>
+		<nl>Demo INZ id</nl>
 	</Name>
 	<ShortName>
-		<en>Demo INZ data</en>
-		<nl>Demo INZ data</nl>
+		<en>Demo INZ id</en>
+		<nl>Demo INZ id</nl>
 	</ShortName>
 	<SchemeManager>inz-demo</SchemeManager>
 	<IssuerID>internetnz</IssuerID>
