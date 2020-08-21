@@ -19,7 +19,7 @@
 		<nl></nl>
 	</IssueURL>
 	<Attributes>
-		<Attribute id="number">
+		<Attribute id="id">
 			<Name>
 				<en>Ticket number</en>
 				<nl></nl>
@@ -87,6 +87,26 @@
 			<Description>
 				<en>Organisation name</en>
 				<nl></nl>
+			</Description>
+		</Attribute>
+		<Attribute id="membershipNumber">
+			<Name>
+				<en>INZ membership number</en>
+				<nl></nl>
+			</Name>
+			<Description>
+				<en>INZ membership number</en>
+				<nl></nl>
+			</Description>
+		</Attribute>
+		<Attribute id="purchaseDate">
+			<Name>
+				<en>Membership since</en>
+				<nl>Membership since</nl>
+			</Name>
+			<Description>
+				<en>Date of the first membership purchase</en>
+				<nl>Date of the first membership purchase</nl>
 			</Description>
 		</Attribute>
 	</Attributes>
