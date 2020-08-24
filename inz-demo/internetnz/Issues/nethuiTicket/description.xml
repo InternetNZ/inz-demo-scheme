@@ -79,7 +79,7 @@
 				<nl></nl>
 			</Description>
 		</Attribute>
-		<Attribute id="organisationName">
+		<Attribute id="organisationName" required="false">
 			<Name>
 				<en>Organisation name</en>
 				<nl></nl>
@@ -89,7 +89,7 @@
 				<nl></nl>
 			</Description>
 		</Attribute>
-		<Attribute id="membershipNumber">
+		<Attribute id="membershipNumber" required="false">
 			<Name>
 				<en>INZ membership number</en>
 				<nl></nl>
@@ -101,12 +101,22 @@
 		</Attribute>
 		<Attribute id="purchaseDate">
 			<Name>
-				<en>Membership since</en>
-				<nl>Membership since</nl>
+				<en>Purchase date</en>
+				<nl>Purchase date</nl>
 			</Name>
 			<Description>
-				<en>Date of the first membership purchase</en>
-				<nl>Date of the first membership purchase</nl>
+				<en>Date of purchase</en>
+				<nl>Date of purchase</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="price">
+			<Name>
+				<en>Price</en>
+				<nl>Price</nl>
+			</Name>
+			<Description>
+				<en>Price</en>
+				<nl>Price</nl>
 			</Description>
 		</Attribute>
 	</Attributes>
