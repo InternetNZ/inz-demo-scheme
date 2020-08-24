@@ -1,10 +1,10 @@
 <IssueSpecification version="4">
 	<Name>
-		<en>Demo INZ Nethui Ticket</en>
-		<nl>Demo INZ Nethui Ticket</nl>
+		<en>Demo INZ Nethui Access Pass</en>
+		<nl>Demo INZ Nethui Access Pass</nl>
 	</Name>
 	<ShortName>
-		<en>Demo INZ Nethui Ticket</en>
+		<en>Demo INZ Nethui Access Pass</en>
 		<nl></nl>
 	</ShortName>
 	<SchemeManager>inz-demo</SchemeManager>
@@ -21,11 +21,11 @@
 	<Attributes>
 		<Attribute id="id">
 			<Name>
-				<en>Ticket number</en>
+				<en>Access Pass ID</en>
 				<nl></nl>
 			</Name>
 			<Description>
-				<en>Ticket number</en>
+				<en>Access Pass ID number</en>
 				<nl></nl>
 			</Description>
 		</Attribute>
@@ -76,16 +76,6 @@
 			</Name>
 			<Description>
 				<en>E-mail</en>
-				<nl></nl>
-			</Description>
-		</Attribute>
-		<Attribute id="organisationName" required="false">
-			<Name>
-				<en>Organisation name</en>
-				<nl></nl>
-			</Name>
-			<Description>
-				<en>Organisation name</en>
 				<nl></nl>
 			</Description>
 		</Attribute>
