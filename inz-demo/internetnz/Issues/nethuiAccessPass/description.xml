@@ -9,9 +9,9 @@
 	</ShortName>
 	<SchemeManager>inz-demo</SchemeManager>
 	<IssuerID>internetnz</IssuerID>
-	<CredentialID>nethuiTicket</CredentialID>
+	<CredentialID>nethuiAccessPass</CredentialID>
 	<Description>
-		<en>INZ Nethui Ticket</en>
+		<en>INZ Nethui Access Pass</en>
 		<nl></nl>
 	</Description>
 	<IssueURL>
@@ -49,13 +49,13 @@
 				<nl></nl>
 			</Description>
 		</Attribute>
-		<Attribute id="ticketType">
+		<Attribute id="accessPassType">
 			<Name>
-				<en>Ticket type</en>
+				<en>Access Pass type</en>
 				<nl></nl>
 			</Name>
 			<Description>
-				<en>Ticket type</en>
+				<en>Access Pass type</en>
 				<nl></nl>
 			</Description>
 		</Attribute>
