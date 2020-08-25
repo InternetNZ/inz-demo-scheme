@@ -59,36 +59,6 @@
 				<nl></nl>
 			</Description>
 		</Attribute>
-		<Attribute id="fullName">
-			<Name>
-				<en>Full name</en>
-				<nl></nl>
-			</Name>
-			<Description>
-				<en>Full name</en>
-				<nl></nl>
-			</Description>
-		</Attribute>
-		<Attribute id="email">
-			<Name>
-				<en>E-mail</en>
-				<nl></nl>
-			</Name>
-			<Description>
-				<en>E-mail</en>
-				<nl></nl>
-			</Description>
-		</Attribute>
-		<Attribute id="membershipNumber" required="false">
-			<Name>
-				<en>INZ membership number</en>
-				<nl></nl>
-			</Name>
-			<Description>
-				<en>INZ membership number</en>
-				<nl></nl>
-			</Description>
-		</Attribute>
 		<Attribute id="purchaseDate">
 			<Name>
 				<en>Purchase date</en>
