@@ -1,14 +1,14 @@
 <IssueSpecification version="4">
     <Name>
-        <en>Demo Fake RealME User e-mail</en>
-        <nl>Demo Fake RealME User e-mail</nl>
+        <en>Demo Emailer User e-mail</en>
+        <nl>Demo Emailer User e-mail</nl>
     </Name>
     <ShortName>
         <en>E-mail</en>
         <nl>E-mail</nl>
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
-    <IssuerID>fake-realme</IssuerID>
+    <IssuerID>emailer</IssuerID>
     <CredentialID>email</CredentialID>
     <Description>
         <en>E-mail</en>

@@ -1,14 +1,14 @@
 <IssueSpecification version="4">
     <Name>
-        <en>Demo Fake Internal affairs full name</en>
-        <nl>Demo Fake Internal affairs full name</nl>
+        <en>Demo Internal Affairs full name</en>
+        <nl>Demo Internal Affairs full name</nl>
     </Name>
     <ShortName>
         <en>Full name</en>
         <nl>Name</nl>
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
-    <IssuerID>fake-internalaffairs</IssuerID>
+    <IssuerID>internal-affairs</IssuerID>
     <CredentialID>name</CredentialID>
     <Description>
         <en>User full name</en>

@@ -1,14 +1,14 @@
 <IssueSpecification version="4">
     <Name>
-        <en>Demo NZ Post Address</en>
-        <nl>Demo NZ Post Address</nl>
+        <en>Demo Postal Service Address</en>
+        <nl>Demo Postal Service Address</nl>
     </Name>
     <ShortName>
         <en>Address</en>
         <nl>Address</nl>
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
-    <IssuerID>fake-nzpost</IssuerID>
+    <IssuerID>postal-service</IssuerID>
     <CredentialID>address</CredentialID>
     <Description>
         <en>Full address</en>
