@@ -1,6 +1,6 @@
 <SchemeManager version="7">
 	<Id>inz-demo</Id>
-	<Url>https://irma-scheme.local.internetnz.nz</Url>
+	<Url>https://inz-demo-scheme.s3-ap-southeast-2.amazonaws.com/</Url>
 	<Demo>true</Demo>
 	<Name>
 		<en>INZ Scheme Manager Demo</en>
@@ -10,7 +10,7 @@
 		<en>Demo credentials within the INZ domain</en>
 		<nl>Demo INZ-credentials</nl>
 	</Description>
-	<KeyshareServer>http://192.168.0.10:8080/irma_keyshare_server/api/v1</KeyshareServer>
+	<KeyshareServer>http://13.54.7.159:8080/irma_keyshare_server/api/v1</KeyshareServer>
 	<KeyshareWebsite>https://internetnz.nz/</KeyshareWebsite>
 	<KeyshareAttribute>inz-demo.internetnz.id.number</KeyshareAttribute>
 	<TimestampServer>https://keyshare.privacybydesign.foundation/atumd/</TimestampServer>
