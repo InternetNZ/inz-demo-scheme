@@ -26,7 +26,7 @@
                 <nl>Ailadres</nl>
             </Name>
             <Description>
-                <en>Street, city, state, zip code</en>
+                <en>Number, Road name, Suburb/locality, City/Town name</en>
                 <nl>Je geverifieerde adres</nl>
             </Description>
         </Attribute>

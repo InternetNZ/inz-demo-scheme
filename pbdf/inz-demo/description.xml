@@ -1,6 +1,6 @@
 <SchemeManager version="7">
 	<Id>inz-demo</Id>
-	<Url>https://demo.irma.nz/pbdf/scheme/</Url>
+	<Url>https://demo.irma.nz/pbdf/inz-demo/</Url>
 	<Demo>true</Demo>
 	<Name>
 		<en>INZ Scheme Manager Demo</en>
