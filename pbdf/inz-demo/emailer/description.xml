@@ -11,5 +11,5 @@
     <SchemeManager>inz-demo</SchemeManager>
     <ContactAddress>https://demo.irma.nz</ContactAddress>
     <ContactEMail>commercial@internetnz.net.nz</ContactEMail>
-    <baseURL></baseURL>
+    <baseURL>http://demo.irma.nz/eee-emailer</baseURL>
 </Issuer>
