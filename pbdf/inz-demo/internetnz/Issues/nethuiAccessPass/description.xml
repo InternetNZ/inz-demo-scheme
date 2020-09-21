@@ -15,8 +15,8 @@
 		<nl></nl>
 	</Description>
 	<IssueURL>
-		<en></en>
-		<nl></nl>
+		<en>http://demo.irma.nz/event-access-pass.html</en>
+		<nl>http://demo.irma.nz/event-access-pass.html</nl>
 	</IssueURL>
 	<Attributes>
 		<Attribute id="id">
