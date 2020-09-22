@@ -16,8 +16,8 @@
     </Description>
     <ShouldBeSingleton>true</ShouldBeSingleton>
     <IssueURL>
-        <en>https://fake-website.internetnz.nz/demo/membership/</en>
-        <nl>https://fake-website.internetnz.nz/demo/membership/</nl>
+        <en>http://demo.irma.nz/membership.html</en>
+        <nl>http://demo.irma.nz/membership.html</nl>
     </IssueURL>
 
     <ForegroundColor>#15222E</ForegroundColor>

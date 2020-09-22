@@ -16,8 +16,8 @@
     </Description>
     <ShouldBeSingleton>false</ShouldBeSingleton>
     <IssueURL>
-        <en></en>
-        <nl></nl>
+        <en>http://demo.irma.nz/simple-issuer.html</en>
+        <nl>http://demo.irma.nz/simple-issuer.html</nl>
     </IssueURL>
     <Category>
         <en>Personal</en>
