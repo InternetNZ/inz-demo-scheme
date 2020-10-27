@@ -1,14 +1,14 @@
 <IssueSpecification version="4">
     <Name>
-        <en>Demo Personal Data Person Name</en>
-        <nl>Demo Personal Data Person Name</nl>
+        <en>Demo Internal Affairs person name</en>
+        <nl>Demo Internal Affairs person name</nl>
     </Name>
     <ShortName>
         <en>Person name</en>
         <nl>Name</nl>
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
-    <IssuerID>personal-data</IssuerID>
+    <IssuerID>internal-affairs</IssuerID>
     <CredentialID>personName</CredentialID>
     <Description>
         <en>Person name</en>
