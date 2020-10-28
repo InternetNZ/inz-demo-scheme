@@ -1,7 +1,7 @@
 <IssueSpecification version="4">
     <Name>
-        <en>Demo Personal Data Age Limits</en>
-        <nl>Demo Personal Data Age Limits</nl>
+        <en>Demo Personal Data Over 18</en>
+        <nl>Demo Personal Data Over 18</nl>
     </Name>
     <ShortName>
         <en>Person name</en>
@@ -9,10 +9,10 @@
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
     <IssuerID>personal-data</IssuerID>
-    <CredentialID>ageLimits</CredentialID>
+    <CredentialID>over18</CredentialID>
     <Description>
-        <en>Age Limits</en>
-        <nl>Age Limits</nl>
+        <en>Over 18</en>
+        <nl>Over 18</nl>
     </Description>
     <ShouldBeSingleton>true</ShouldBeSingleton>
     <IssueURL>
@@ -32,16 +32,6 @@
             <Description>
                 <en>Over 18</en>
                 <nl>Over 18</nl>
-            </Description>
-        </Attribute>
-        <Attribute id="over65">
-            <Name>
-                <en>Over 65</en>
-                <nl>Over 65</nl>
-            </Name>
-            <Description>
-                <en>Over 65</en>
-                <nl>Over 65</nl>
             </Description>
         </Attribute>
     </Attributes>
