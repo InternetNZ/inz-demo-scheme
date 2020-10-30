@@ -4,12 +4,12 @@
         <nl>Demo Personal Data Over 18</nl>
     </Name>
     <ShortName>
-        <en>Person name</en>
-        <nl>Name</nl>
+        <en>Age Limits</en>
+        <nl>Age Limits</nl>
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
     <IssuerID>personal-data</IssuerID>
-    <CredentialID>over18</CredentialID>
+    <CredentialID>ageLimits</CredentialID>
     <Description>
         <en>Over 18</en>
         <nl>Over 18</nl>
@@ -32,6 +32,16 @@
             <Description>
                 <en>Over 18</en>
                 <nl>Over 18</nl>
+            </Description>
+        </Attribute>
+        <Attribute id="over65" required="no">
+            <Name>
+                <en>Over 65</en>
+                <nl>Over 65</nl>
+            </Name>
+            <Description>
+                <en>Over 65</en>
+                <nl>Over 65</nl>
             </Description>
         </Attribute>
     </Attributes>
