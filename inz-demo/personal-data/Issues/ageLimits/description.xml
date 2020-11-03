@@ -34,7 +34,7 @@
                 <nl>Over 18</nl>
             </Description>
         </Attribute>
-        <Attribute id="over65" required="no">
+        <Attribute id="over65" optional="true">
             <Name>
                 <en>Over 65</en>
                 <nl>Over 65</nl>
