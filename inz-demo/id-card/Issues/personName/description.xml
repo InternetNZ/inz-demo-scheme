@@ -1,0 +1,54 @@
+<IssueSpecification version="4">
+    <Name>
+        <en>Demo ID Card Person Name</en>
+        <nl>Demo ID Card Data Person Name</nl>
+    </Name>
+    <ShortName>
+        <en>Person name</en>
+        <nl>Name</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <IssuerID>id-card</IssuerID>
+    <CredentialID>personName</CredentialID>
+    <Description>
+        <en>Person name</en>
+        <nl>Person name</nl>
+    </Description>
+    <ShouldBeSingleton>true</ShouldBeSingleton>
+    <Category>
+        <en>Personal</en>
+        <nl>Persoonlijk</nl>
+    </Category>
+    <Attributes>
+        <Attribute id="fullName">
+            <Name>
+                <en>Person full name</en>
+                <nl>Person full name</nl>
+            </Name>
+            <Description>
+                <en>Person full name</en>
+                <nl>Person full name</nl>
+            </Description>
+        </Attribute>
+        <Attribute id="firstName">
+            <Name>
+                <en>Person first name</en>
+                <nl>Person first name</nl>
+            </Name>
+            <Description>
+                <en>Person first name</en>
+                <nl>Person first name</nl>
+            </Description>
+        </Attribute>
+        <Attribute id="lastName">
+            <Name>
+                <en>Person last name</en>
+                <nl>Person last name</nl>
+            </Name>
+            <Description>
+                <en>Person last name</en>
+                <nl>Person last name</nl>
+            </Description>
+        </Attribute>
+    </Attributes>
+</IssueSpecification>

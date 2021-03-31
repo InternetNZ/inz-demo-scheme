@@ -1,0 +1,58 @@
+<IssueSpecification version="4">
+    <Name>
+        <en>Demo ID Card Age Limits</en>
+        <nl>Demo ID Card Age Limits</nl>
+    </Name>
+    <ShortName>
+        <en>Age Limits</en>
+        <nl>Age Limits</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <IssuerID>id-card</IssuerID>
+    <CredentialID>ageLimits</CredentialID>
+    <Description>
+        <en>Age Limits</en>
+        <nl>Age Limits</nl>
+    </Description>
+    <ShouldBeSingleton>true</ShouldBeSingleton>
+    <IssueURL>
+        <en>http://demo.irma.nz/</en>
+        <nl>http://demo.irma.nz/</nl>
+    </IssueURL>
+    <Category>
+        <en>Personal</en>
+        <nl>Persoonlijk</nl>
+    </Category>
+    <Attributes>
+        <Attribute id="over18">
+            <Name>
+                <en>Over 18</en>
+                <nl>Over 18</nl>
+            </Name>
+            <Description>
+                <en>Over 18</en>
+                <nl>Over 18</nl>
+            </Description>
+        </Attribute>
+        <Attribute id="over20">
+            <Name>
+                <en>Over 20</en>
+                <nl>Over 20</nl>
+            </Name>
+            <Description>
+                <en>Over 20</en>
+                <nl>Over 20</nl>
+            </Description>
+        </Attribute>
+        <Attribute id="over65">
+            <Name>
+                <en>Over 65</en>
+                <nl>Over 65</nl>
+            </Name>
+            <Description>
+                <en>Over 65</en>
+                <nl>Over 65</nl>
+            </Description>
+        </Attribute>
+    </Attributes>
+</IssueSpecification>

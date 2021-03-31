@@ -1,0 +1,38 @@
+<IssueSpecification version="4">
+    <Name>
+        <en>Demo ID Card Birthdate</en>
+        <nl>Demo ID Card Birthdate</nl>
+    </Name>
+    <ShortName>
+        <en>Birthdate</en>
+        <nl>Birthdate</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <IssuerID>id-card</IssuerID>
+    <CredentialID>birthdate</CredentialID>
+    <Description>
+        <en>Birthdate</en>
+        <nl>Birthdate</nl>
+    </Description>
+    <ShouldBeSingleton>true</ShouldBeSingleton>
+    <IssueURL>
+        <en>http://demo.irma.nz/</en>
+        <nl>http://demo.irma.nz/</nl>
+    </IssueURL>
+    <Category>
+        <en>Personal</en>
+        <nl>Persoonlijk</nl>
+    </Category>
+    <Attributes>
+        <Attribute id="birthdate">
+            <Name>
+                <en>Birthdate</en>
+                <nl>Birthdate</nl>
+            </Name>
+            <Description>
+                <en>Birthdate</en>
+                <nl>Birthdate</nl>
+            </Description>
+        </Attribute>
+    </Attributes>
+</IssueSpecification>

@@ -1,0 +1,55 @@
+<IssueSpecification version="4">
+    <Name>
+        <en>Demo ID Card Details</en>
+        <nl>Demo ID Card Details</nl>
+    </Name>
+    <ShortName>
+        <en>ID Card Details</en>
+        <nl>ID Card Details</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <IssuerID>id-card</IssuerID>
+    <CredentialID>cardDetails</CredentialID>
+    <Description>
+        <en>Your ID Card attributes</en>
+        <nl>Your ID Card attributes</nl>
+    </Description>
+    <ShouldBeSingleton>true</ShouldBeSingleton>
+    <IssueURL>
+        <en>https://fake-website.internetnz.nz/demo/membership/</en>
+        <nl>https://fake-website.internetnz.nz/demo/membership/</nl>
+    </IssueURL>
+
+    <Attributes>
+        <Attribute id="id">
+            <Name>
+                <en>Card ID Number</en>
+                <nl>Card ID Number</nl>
+            </Name>
+            <Description>
+                <en>Your card number</en>
+                <nl>Your card number</nl>
+            </Description>
+        </Attribute>
+        <Attribute id="issueDate">
+            <Name>
+                <en>Card Issue Date</en>
+                <nl>Card Issue Date</nl>
+            </Name>
+            <Description>
+                <en>The issue date of the ID Card</en>
+                <nl>The issue date of the ID Card</nl>
+            </Description>
+        </Attribute>
+        <Attribute id="expiryDate">
+            <Name>
+                <en>Card Expiry Date</en>
+                <nl>Card Expiry Date</nl>
+            </Name>
+            <Description>
+                <en>The expiry date of the Id Card</en>
+                <nl>The expiry date of the Id Card</nl>
+            </Description>
+        </Attribute>
+    </Attributes>
+</IssueSpecification>
