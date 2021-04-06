@@ -21,107 +21,107 @@
     </IssueURL>
     <Category>
         <en>Personal</en>
-        <nl>Persoonlijk</nl>
+        <nl></nl>
     </Category>
     <Attributes>
       <Attribute id="id">
           <Name>
               <en>Card ID Number</en>
-              <nl>Card ID Number</nl>
+              <nl></nl>
           </Name>
           <Description>
               <en>Your card number</en>
-              <nl>Your card number</nl>
+              <nl></nl>
           </Description>
       </Attribute>
       <Attribute id="issueDate">
           <Name>
               <en>Card Issue Date</en>
-              <nl>Card Issue Date</nl>
+              <nl></nl>
           </Name>
           <Description>
               <en>The issue date of the ID Card</en>
-              <nl>The issue date of the ID Card</nl>
+              <nl></nl>
           </Description>
       </Attribute>
       <Attribute id="expiryDate">
           <Name>
               <en>Card Expiry Date</en>
-              <nl>Card Expiry Date</nl>
+              <nl></nl>
           </Name>
           <Description>
               <en>The expiry date of the Id Card</en>
-              <nl>The expiry date of the Id Card</nl>
+              <nl></nl>
           </Description>
       </Attribute>
         <Attribute id="over18">
             <Name>
                 <en>Over 18</en>
-                <nl>Over 18</nl>
+                <nl></nl>
             </Name>
             <Description>
                 <en>Over 18</en>
-                <nl>Over 18</nl>
+                <nl></nl>
             </Description>
         </Attribute>
         <Attribute id="over20">
             <Name>
                 <en>Over 20</en>
-                <nl>Over 20</nl>
+                <nl></nl>
             </Name>
             <Description>
                 <en>Over 20</en>
-                <nl>Over 20</nl>
+                <nl></nl>
             </Description>
         </Attribute>
         <Attribute id="over65">
             <Name>
                 <en>Over 65</en>
-                <nl>Over 65</nl>
+                <nl></nl>
             </Name>
             <Description>
                 <en>Over 65</en>
-                <nl>Over 65</nl>
+                <nl></nl>
             </Description>
         </Attribute>
         <Attribute id="birthdate">
             <Name>
                 <en>Birthdate</en>
-                <nl>Birthdate</nl>
+                <nl></nl>
             </Name>
             <Description>
                 <en>Birthdate</en>
-                <nl>Birthdate</nl>
+                <nl></nl>
             </Description>
         </Attribute>
         <Attribute id="fullName">
             <Name>
                 <en>Person full name</en>
-                <nl>Person full name</nl>
+                <nl></nl>
             </Name>
             <Description>
                 <en>Person full name</en>
-                <nl>Person full name</nl>
+                <nl></nl>
             </Description>
         </Attribute>
         <Attribute id="firstName">
             <Name>
                 <en>Person first name</en>
-                <nl>Person first name</nl>
+                <nl></nl>
             </Name>
             <Description>
                 <en>Person first name</en>
-                <nl>Person first name</nl>
+                <nl></nl>
             </Description>
         </Attribute>
         <Attribute id="lastName">
             <Name>
                 <en>Person last name</en>
-                <nl>Person last name</nl>
+                <nl></nl>
             </Name>
             <Description>
                 <en>Person last name</en>
-                <nl>Person last name</nl>
+                <nl></nl>
             </Description>
         </Attribute>
     </Attributes>

@@ -5,7 +5,7 @@
     </Name>
     <ShortName>
         <en>Address</en>
-        <nl>Address</nl>
+        <nl></nl>
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
     <IssuerID>id-card</IssuerID>
@@ -23,11 +23,11 @@
         <Attribute id="fullAddress">
             <Name>
                 <en>Full address</en>
-                <nl>Ailadres</nl>
+                <nl></nl>
             </Name>
             <Description>
                 <en>Number, Road name, Suburb/locality, City/Town name</en>
-                <nl>Je geverifieerde adres</nl>
+                <nl></nl>
             </Description>
         </Attribute>
     </Attributes>
