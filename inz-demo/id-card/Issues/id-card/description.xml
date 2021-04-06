@@ -24,7 +24,7 @@
         <nl></nl>
     </Category>
     <Attributes>
-      <Attribute id="id">
+      <Attribute id="number">
           <Name>
               <en>Card ID Number</en>
               <nl></nl>
