@@ -64,7 +64,6 @@
                 <nl></nl>
             </Description>
         </Attribute>
-      </Attribute>
         <Attribute id="over18">
             <Name>
                 <en>Over 18</en>
@@ -95,34 +94,35 @@
                 <nl></nl>
             </Description>
         </Attribute>
-      <Attribute id="issueDate">
-          <Name>
-              <en>Card Issue Date</en>
-              <nl></nl>
-          </Name>
-          <Description>
-              <en>The issue date of the ID Card</en>
-              <nl></nl>
-          </Description>
-      </Attribute>
-      <Attribute id="expiryDate">
-          <Name>
-              <en>Card Expiry Date</en>
-              <nl></nl>
-          </Name>
-          <Description>
-              <en>The expiry date of the Id Card</en>
-              <nl></nl>
-          </Description>
-      <Attribute id="number">
-          <Name>
-              <en>Card ID Number</en>
-              <nl></nl>
-          </Name>
-          <Description>
-              <en>Your card number</en>
-              <nl></nl>
-          </Description>
-      </Attribute>
+        <Attribute id="issueDate">
+            <Name>
+                <en>Card Issue Date</en>
+                <nl></nl>
+            </Name>
+            <Description>
+                <en>The issue date of the ID Card</en>
+                <nl></nl>
+            </Description>
+        </Attribute>
+        <Attribute id="expiryDate">
+            <Name>
+                <en>Card Expiry Date</en>
+                <nl></nl>
+            </Name>
+            <Description>
+                <en>The expiry date of the Id Card</en>
+                <nl></nl>
+            </Description>
+        </Attribute>
+        <Attribute id="number">
+            <Name>
+                <en>Card ID Number</en>
+                <nl></nl>
+            </Name>
+            <Description>
+                <en>Your card number</en>
+                <nl></nl>
+            </Description>
+        </Attribute>
     </Attributes>
 </IssueSpecification>
