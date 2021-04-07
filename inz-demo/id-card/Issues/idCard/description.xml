@@ -1,18 +1,18 @@
 <IssueSpecification version="4">
     <Name>
         <en>Demo ID Card</en>
-        <nl>Demo ID Card</nl>
+        <nl></nl>
     </Name>
     <ShortName>
         <en>ID Card</en>
-        <nl>ID Card</nl>
+        <nl></nl>
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
     <IssuerID>id-card</IssuerID>
     <CredentialID>idCard</CredentialID>
     <Description>
         <en>ID Card</en>
-        <nl>ID Card</nl>
+        <nl></nl>
     </Description>
     <ShouldBeSingleton>true</ShouldBeSingleton>
     <IssueURL>

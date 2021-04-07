@@ -1,7 +1,7 @@
 <IssueSpecification version="4">
     <Name>
         <en>Demo ID Card Address</en>
-        <nl>Demo ID Card Address</nl>
+        <nl></nl>
     </Name>
     <ShortName>
         <en>Address</en>
@@ -12,7 +12,7 @@
     <CredentialID>address</CredentialID>
     <Description>
         <en>Full address</en>
-        <nl>Full address</nl>
+        <nl></nl>
     </Description>
     <ShouldBeSingleton>true</ShouldBeSingleton>
     <IssueURL>
