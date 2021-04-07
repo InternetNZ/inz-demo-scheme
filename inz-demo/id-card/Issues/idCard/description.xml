@@ -9,7 +9,7 @@
     </ShortName>
     <SchemeManager>inz-demo</SchemeManager>
     <IssuerID>id-card</IssuerID>
-    <CredentialID>ID Card</CredentialID>
+    <CredentialID>idCard</CredentialID>
     <Description>
         <en>ID Card</en>
         <nl>ID Card</nl>
