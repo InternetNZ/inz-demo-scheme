@@ -1,0 +1,15 @@
+<Issuer version="4">
+    <ID>id-card</ID>
+    <Name>
+        <en>Demo ID Card</en>
+        <nl>Demo ID Card</nl>
+    </Name>
+    <ShortName>
+        <en>Demo ID Card</en>
+        <nl></nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <ContactAddress>https://demo.irma.nz/id-card/</ContactAddress>
+    <ContactEMail>commercial@internetnz.net.nz</ContactEMail>
+    <baseURL></baseURL>
+</Issuer>
