@@ -1,40 +1,40 @@
 <IssueSpecification version="4">
-	<Name>
-		<en>Demo Revocable ID</en>
-		<nl>Demo Revocable ID</nl>
-	</Name>
-	<ShortName>
-		<en>Demo Revocable ID</en>
-		<nl>Demo Revocable ID</nl>
-	</ShortName>
-	<SchemeManager>inz-demo</SchemeManager>
-	<IssuerID>revocable-id</IssuerID>
-	<CredentialID>id</CredentialID>
-	<Description>
-		<en>Demo Revocable ID</en>
-		<nl></nl>
-	</Description>
-	<ShouldBeSingleton>true</ShouldBeSingleton>
-	<IssueURL>
-		<en>https://demo.irma.nz</en>
-		<nl>https://demo.irma.nz</nl>
-	</IssueURL>
+    <Name>
+        <en>Demo Revocable ID</en>
+        <nl>Demo Revocable ID</nl>
+    </Name>
+    <ShortName>
+        <en>Demo Revocable ID</en>
+        <nl>Demo Revocable ID</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <IssuerID>revocable-id</IssuerID>
+    <CredentialID>id</CredentialID>
+    <Description>
+        <en>Demo Revocable ID</en>
+        <nl></nl>
+    </Description>
+    <ShouldBeSingleton>true</ShouldBeSingleton>
+    <IssueURL>
+        <en>https://demo.irma.nz</en>
+        <nl>https://demo.irma.nz</nl>
+    </IssueURL>
 
-	<RevocationServers>
-    	<RevocationServer>https://1k1q3wt2y5.execute-api.ap-southeast-2.amazonaws.com/dev</RevocationServer>
-  	</RevocationServers>
+    <RevocationServers>
+        <RevocationServer>https://1k1q3wt2y5.execute-api.ap-southeast-2.amazonaws.com/dev</RevocationServer>
+      </RevocationServers>
 
-	<Attributes>
-		<Attribute revocation="true" />
-		<Attribute id="number">
-			<Name>
-				<en>number</en>
-				<nl></nl>
-			</Name>
-			<Description>
-				<en>ID number</en>
-				<nl></nl>
-			</Description>
-		</Attribute>
-	</Attributes>
+    <Attributes>
+        <Attribute revocation="true" />
+        <Attribute id="number">
+            <Name>
+                <en>number</en>
+                <nl></nl>
+            </Name>
+            <Description>
+                <en>ID number</en>
+                <nl></nl>
+            </Description>
+        </Attribute>
+    </Attributes>
 </IssueSpecification>
