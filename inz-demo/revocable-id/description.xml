@@ -1,5 +1,5 @@
 <Issuer version="4">
-    <ID>emailer</ID>
+    <ID>revocable-id</ID>
     <Name>
         <en>Demo Revocable ID Issuer</en>
         <nl>Demo Revocable ID Issuer</nl>
