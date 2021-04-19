@@ -1,0 +1,15 @@
+<Issuer version="4">
+    <ID>revocable-id</ID>
+    <Name>
+        <en>Demo Revocable ID Issuer</en>
+        <nl>Demo Revocable ID Issuer</nl>
+    </Name>
+    <ShortName>
+        <en>Demo Revocable ID</en>
+        <nl>Demo Revocable ID</nl>
+    </ShortName>
+    <SchemeManager>inz-demo</SchemeManager>
+    <ContactAddress>https://demo.irma.nz</ContactAddress>
+    <ContactEMail>commercial@internetnz.net.nz</ContactEMail>
+    <baseURL></baseURL>
+</Issuer>
