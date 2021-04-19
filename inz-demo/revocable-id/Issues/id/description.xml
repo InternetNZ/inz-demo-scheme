@@ -15,7 +15,6 @@
 		<nl></nl>
 	</Description>
 	<ShouldBeSingleton>true</ShouldBeSingleton>
-	<DisallowDelete>true</DisallowDelete>
 	<IssueURL>
 		<en>https://demo.irma.nz</en>
 		<nl>https://demo.irma.nz</nl>
